@@ -1,2 +1,6 @@
-Part 1: `1100`
-Part 2: `6358`
+<details>
+    <summary>Part 1</summary>
+    
+    ```1100```
+
+</details>
