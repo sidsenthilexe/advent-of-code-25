@@ -1,2 +1,34 @@
 # advent-of-code-25
 My repository for the 2025 Advent of Code
+
+## Solutions (Click to view)
+
+### Day 1
+<details>
+    <summary>Part 1</summary>
+    
+    1100
+
+</details>
+
+<details>
+    <summary>Part 2</summary>
+    
+    6358
+
+</details>
+
+### Day 2
+<details>
+    <summary>Part 1</summary>
+    
+    23534117921
+
+</details>
+
+<details>
+    <summary>Part 2</summary>
+    
+    31755323497
+
+</details>
