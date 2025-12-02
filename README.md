@@ -1,5 +1,5 @@
 # advent-of-code-25
-My repository for the 2025 Advent of Code
+My repository for the 2025 Advent of Code  
 I'm working in Java this year
 
 ## Solutions (Click to view)
