@@ -60,6 +60,3 @@ public class Part1 {
 
     }
 }
-
-
-
