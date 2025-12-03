@@ -33,3 +33,18 @@ I'm working in Java this year
     31755323497
 
 </details>
+
+### [Day 3](https://adventofcode.com/2025/day/3)
+<details>
+    <summary>Part 1</summary>
+    
+    17031
+
+</details>
+
+<details>
+    <summary>Part 2</summary>
+    
+    168575096286051
+
+</details>
