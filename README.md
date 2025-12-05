@@ -48,3 +48,18 @@ I'm working in Java this year
     168575096286051
 
 </details>
+
+### [Day 4](https://adventofcode.com/2025/day/4)
+<details>
+    <summary>Part 1</summary>
+    
+    1493
+
+</details>
+
+<details>
+    <summary>Part 2</summary>
+    
+    9194
+
+</details>
